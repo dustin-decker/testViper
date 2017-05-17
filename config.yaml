@@ -1,9 +1,9 @@
-ListenInterface: 127.0.0.1
-ListenPort: 8080
-Thing:
+listeninterface: 127.0.0.1
+listenport: 8080
+thing:
   .broken:
-    Stuff: missing
+    stuff: missing
   partially.works:
-    Stuff: missing
+    stuff: missing
   fully-works:
-    Stuff: works
+    stuff: works
